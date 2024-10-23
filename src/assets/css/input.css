@@ -6,7 +6,7 @@
 
 @layer base {
 	* {
-		@apply m-0 p-0 box-border border-2 border-red-500
+		@apply m-0 p-0 box-border
 	}
 	
 	main {
@@ -24,7 +24,7 @@
 
 @layer components {
 	.conteudo {
-		@apply grid w-5/6 m-auto
+		@apply grid w-5/6 m-auto md:w-2/6 lg:w-2/12
 	}
 	
 	.calc-btn {

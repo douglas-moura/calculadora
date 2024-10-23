@@ -559,9 +559,6 @@ video {
 *{
   margin: 0px;
   box-sizing: border-box;
-  border-width: 2px;
-  --tw-border-opacity: 1;
-  border-color: rgb(239 68 68 / var(--tw-border-opacity));
   padding: 0px;
 }
 
@@ -585,6 +582,18 @@ span{
   width: 83.333333%;
 }
 
+@media (min-width: 768px){
+  .conteudo{
+    width: 33.333333%;
+  }
+}
+
+@media (min-width: 1024px){
+  .conteudo{
+    width: 16.666667%;
+  }
+}
+
 .calc-btn{
   display: flex;
   align-items: center;
@@ -594,10 +603,6 @@ span{
   font-size: 1.25rem;
   line-height: 1.75rem;
   font-weight: 800;
-}
-
-.left-0{
-  left: 0px;
 }
 
 .right-0{
@@ -633,20 +638,8 @@ span{
   display: grid;
 }
 
-.h-16{
-  height: 4rem;
-}
-
 .min-h-16{
   min-height: 4rem;
-}
-
-.min-h-12{
-  min-height: 3rem;
-}
-
-.min-h-1{
-  min-height: 0.25rem;
 }
 
 .w-full{
@@ -714,11 +707,6 @@ span{
 
 .font-electro{
   font-family: Electrolize, sans-serif;
-}
-
-.text-2xl{
-  font-size: 1.5rem;
-  line-height: 2rem;
 }
 
 .text-base{
