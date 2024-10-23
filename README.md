@@ -38,3 +38,12 @@ Este é um projeto de uma calculadora desenvolvida em JavaScript, capaz de reali
    
 2. Abra o arquivo index.html em um navegador para visualizar a calculadora.
 3. Interaja com os botões numéricos e operadores para realizar cálculos.
+
+## Tecnologias Usadas
+
+- **JavaScript**: Lógica da calculadora e manipulação do DOM.
+- **HTML**: Estrutura da calculadora.
+- **CSS**: Estilização da interface.
+- **Tailwind CSS**: Framework para estilização rápida e responsiva da interface.
+- **Iconify**: Biblioteca de ícones utilizada para os botões da calculadora.
+
