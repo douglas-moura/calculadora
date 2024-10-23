@@ -1,8 +1,6 @@
 # Calculadora JavaScript
 
-Este é um projeto de uma calculadora desenvolvida em JavaScript, capaz de realizar operações matemáticas básicas e avançadas. A interface é gerada dinamicamente através de manipulação do DOM, exibindo os botões e atualizando o visor em tempo real. A calculadora suporta operações como soma, subtração, multiplicação, divisão, raiz quadrada e potência ao quadrado, com um sistema que respeita a ordem de precedência dos operadores.
-
-## Funcionalidades
+Este é um projeto intermediário de uma calculadora desenvolvida em JavaScript, capaz de realizar operações matemáticas básicas e avançadas. A interface é gerada dinamicamente através de manipulação do DOM, exibindo os botões e atualizando o visor em tempo real. A calculadora suporta funcionalidades e operações como:
 
 - **Operações básicas**: Soma (+), subtração (-), multiplicação (x) e divisão (/).
 - **Operações avançadas**: Potência ao quadrado (²) e raiz quadrada (√).
@@ -47,3 +45,5 @@ Este é um projeto de uma calculadora desenvolvida em JavaScript, capaz de reali
 - **Tailwind CSS**: Framework para estilização rápida e responsiva da interface.
 - **Iconify**: Biblioteca de ícones utilizada para os botões da calculadora.
 
+## Imagem da Calculadora
+![Calculadora JavaScript]()
