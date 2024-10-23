@@ -45,5 +45,6 @@ Este é um projeto intermediário de uma calculadora desenvolvida em JavaScript,
 - **Tailwind CSS**: Framework para estilização rápida e responsiva da interface.
 - **Iconify**: Biblioteca de ícones utilizada para os botões da calculadora.
 
-## Imagem da Calculadora
-![Calculadora JavaScript]()
+## Imagem Calculadora
+
+![calc](https://github.com/user-attachments/assets/39afece7-cd51-4a79-bbd8-de6be15d81f5)
