@@ -1,0 +1,4 @@
+# Ignorar diretórios de build
+/node_modules/
+/dist/
+/build/
