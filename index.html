@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="./src/assets/css/output.css" rel="stylesheet">
+		<title>Calculadora</title>
+	</head>
+	<body class="bg-gray-300">
+		<main class="">
+			<section class="">
+				<div id="calculadora" class="conteudo bg-gray-200 rounded-xl p-4 overflow-hidden shadow-2xl">
+					<iconify-icon icon="tabler:dots" class="mb-2 text-gray-400"></iconify-icon>
+					<div class="flex rounded border-[1px] border-gray-500 mb-4">
+						<span id="visor" class="p-4 min-h-16 w-full text-2xl justify-end items-center font-electro overflow-hidden"></span>
+					</div>
+					<div id="teclado" class="grid grid-cols-4 rounded border-[1px] border-gray-500 overflow-hidden">
+						<!-- Aqui é onde o teclado da calculadora é renderizado -->
+					</div>
+					<iconify-icon icon="tabler:plus-equal" heigth="1.5rem" width="1.5rem" class="mt-3 mx-auto text-gray-400"></iconify-icon>
+				</div>
+			</section>
+		</main>
+		<script src="/src/js/main.js" type="text/javascript" charset="utf-8"></script>
+		<script src="https://cdn.jsdelivr.net/npm/iconify-icon@2.1.0/dist/iconify-icon.min.js"></script>
+	</body>
+</html>
